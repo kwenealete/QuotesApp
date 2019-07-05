@@ -30,11 +30,13 @@ body {
 #text p {
   margin-block-start: 0.5em;
   margin-block-end: 0.5em;
+  font-weight: bolder
 }
 
-#author h5 {
+#author h4 {
   margin-block-start: 1em;
   margin-block-end: 1em;
+  color: rgb(28, 10, 185);
 }
 
 #buttons {
